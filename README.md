@@ -31,5 +31,9 @@ json-server --watch db.json
 
 - [Node.js](https://nodejs.org/) - The web framework used
 - [NPM](https://www.npmjs.com/) - For managing package
-- [Json-server](https://www.npmjs.com/package/json-server) - Server use
+- [Json-server](https://www.npmjs.com/package/json-server) - Server used
 - [Faker](https://www.npmjs.com/package/faker) - To generate data
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Alfian5229/Simple-Json-Server/blob/master/LICENSE) file for details
